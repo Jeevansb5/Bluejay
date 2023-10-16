@@ -1,0 +1,23 @@
+	a) who has worked for 7 consecutive days.
+	output:-
+         Position ID| Employee Name
+         WFS000456  | CEreira Jr, JEse,
+         WFS000473  | GAeWdia, JAaW CarXEs,
+         WFS000101  | Sparks, KeWWeMh
+         
+	b) who have less than 10 hours of time between shifts but greater than 1 hour
+	output:-
+		--------------------------------------------------
+		Employee Id	 Time Gap	Employee Name
+		--------------------------------------------------
+		WFS000153	 2.0			CaMaXaWE, CeghaW
+		WFS000200	 8.0			Xee, XaCar
+		WFS000200	 9.0			Xee, XaCar
+		WFS000318	 3.0			De Xa Cerda, IgWaciE
+		WFS000456	 4.0			CEreira Jr, JEse
+		WFS000523	 3.0			DeXgadiXXE REdarMe, ChrisMiaW S
+		WFS000536	 2.0			HaCiXMEW, DeaWMe DevEW
+				
+	 c) Who has worked for more than 14 hours in a single shift
+	 output:-
+	 	[WFS000523] which is Position ID of employee who worked more than 14 hours in a single shift
